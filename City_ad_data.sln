@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "City_ad_data", "City_ad_data\City_ad_data.pyproj", "{DCCF25FF-73FA-4934-ACB6-EC1F21BC2E71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCCF25FF-73FA-4934-ACB6-EC1F21BC2E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCF25FF-73FA-4934-ACB6-EC1F21BC2E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F21AFE8-F0EF-44AB-B82B-F55AC5EE9281}
+	EndGlobalSection
+EndGlobal
